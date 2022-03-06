@@ -1,6 +1,6 @@
 public class SharedData 
 {
-	private ArrayList<Integer> arrays;
+	private ArrayList<Integer> array;
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
