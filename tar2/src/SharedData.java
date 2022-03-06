@@ -5,9 +5,9 @@ public class SharedData
 	private boolean flag;
 	private final int b;
 	
-	public SharedData(int[] array, int b) {
+	public SharedData(int[] arraylist, int b) {
 		
-		this.arraylist = array;
+		this.arraylist = arraylist;
 		this.b = b;
 	}
 
